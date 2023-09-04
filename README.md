@@ -1,6 +1,6 @@
 # Actividad de Teoria 1° - Sitio Web Colaborativo
 
-![Sitio Web Screenshot](screenshot.png)
+[image](https://github.com/LauraCuenca/ACT1-TEORIA/assets/80906205/2ac19215-b0d3-4c91-ae07-55ee7cc21106)
 
 ## Descripción del Proyecto
 
@@ -18,11 +18,11 @@ Asegúrate de cumplir con los siguientes requisitos del sistema para utilizar el
 
 Agradecemos a las siguientes recursos que contribuyeron a este proyecto:
 
-- **ChatGPT:** [ChatGPT](https://openai.com/blog/chatgpt)
-- **Bard:** [Bard](https://bard.google.com/?hl=es)
-- **Validador de CSS:** [Validador de CSS]((https://jigsaw.w3.org/css-validator/#validate_by_uri+with_options))
-- **Validador de HTML:** [Validador de HTML]((https://validator.w3.org/nu/#file))
-- **Night Cafe:** [Night Cafe]((https://creator.nightcafe.studio/))
+- [ChatGPT](https://openai.com/blog/chatgpt)
+- [Bard](https://bard.google.com/?hl=es)
+  [Validador de CSS](https://jigsaw.w3.org/css-validator/#validate_by_uri+with_options)
+- [Validador de HTML](https://validator.w3.org/nu/#file)
+- [Night Cafe](https://creator.nightcafe.studio/)
 
 ## Contacto
 
