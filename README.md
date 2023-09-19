@@ -1,6 +1,6 @@
 # Actividad de Teoria 1° - Sitio Web Colaborativo
 
-![Imagen](https://github.com/LauraCuenca/ACT1-TEORIA/assets/80906205/2ac19215-b0d3-4c91-ae07-55ee7cc21106)
+![image](https://github.com/LauraCuenca/ACT1-TEORIA/assets/80906205/0f03a6fe-3789-4a1c-ac80-7943defadf98)
 
 ## Descripción del Proyecto
 
